@@ -1,6 +1,8 @@
 # wqsreg
 Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
 
+https://www.youtube.com/watch?v=g9JhuvkVngU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
